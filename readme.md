@@ -2,6 +2,8 @@
 
 Ezy setup just some steps
 
+0. Fork it 
+
 1. Signup here if you dont have ngrok account
 https://dashboard.ngrok.com
 
