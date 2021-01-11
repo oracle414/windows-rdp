@@ -38,6 +38,8 @@ default password : 'Area69Lab'
 
 12. Enjoy 
 
-Note: Don't open Unity Launcher and Epic Games 
+Note: 1) It will last till 6hr then you need to re-run it
+
+      2) Don't open Unity Launcher and Epic Games 
 
 All credits to https://github.com/ElytrA8
