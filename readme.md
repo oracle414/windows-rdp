@@ -32,9 +32,9 @@ https://dashboard.ngrok.com
 
  ( like x.tcp.ngrok.io.xxxx )
 
-default username : 'jashgro'
+default username : 'runneradmin'
 
-default password : 'kthxbye'
+default password : 'Area69Lab'
 
 11. Enjoy 
 
