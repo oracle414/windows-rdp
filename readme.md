@@ -1,11 +1,11 @@
 # windows–rdp
 
-ezy setup just some steps
+Ezy setup just some steps
 
-1. signup here if you dont have ngrok account
+1. Signup here if you dont have ngrok account
 https://dashboard.ngrok.com
 
-2. copy token from https://dashboard.ngrok.com
+2. Copy token from https://dashboard.ngrok.com
 
 3. Paste that token in settings (in top right of this page) > secrets > New Repository Secret and fill data as.     
         Secrete Name = 'NGROK_AUTH_TOKEN'
