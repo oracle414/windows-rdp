@@ -28,7 +28,7 @@ https://dashboard.ngrok.com
 
 10. Open https://dashboard.ngrok.com/status/tunnels 
 
-10. Now copy host address
+11. Now copy host address
 
  ( like x.tcp.ngrok.io.xxxx )
 
@@ -36,8 +36,8 @@ default username : 'runneradmin'
 
 default password : 'Area69Lab'
 
-11. Enjoy 
+12. Enjoy 
 
 Note: Don't open Unity Launcher and Epic Games 
 
-All credits to @ElytrA8
+All credits to https://github.com/ElytrA8
