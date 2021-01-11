@@ -38,4 +38,6 @@ default password : 'Area69Lab'
 
 11. Enjoy 
 
+Note: Don't open Unity Launcher and Epic Games 
+
 All credits to @ElytrA8
