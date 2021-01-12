@@ -10,9 +10,10 @@ https://dashboard.ngrok.com
 2. Copy token from https://dashboard.ngrok.com
 
 3. Paste that token in settings (in top right of this page) > secrets > New Repository Secret and fill data as.     
-        Secrete Name = 'NGROK_AUTH_TOKEN'
-        Value = token that you copied in step 2.
-        Add Secrete kek.
+ Secrete Name = 'NGROK_AUTH_TOKEN'
+      
+ Value = token that you copied in step 2.
+ Add Secrete kek.
         
 4. Enable github actions https://github.com/features/actions
 
@@ -38,7 +39,8 @@ default password : 'Area69Lab'
 
 12. Enjoy 
 
-Note: 1) It will last till 6hr then you need to run it again
-      2) Don't open Unity Launcher and Epic Games 
+Note:
+1) It will last till 6hr then you need to run it again
+2) Don't open Unity Launcher and Epic Games 
 
 All credits to https://github.com/ElytrA8
