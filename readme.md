@@ -43,4 +43,4 @@ Note:
 1) It will last till 6hr then you need to run it again
 2) Don't open Unity Launcher and Epic Games cuz nippa sar said xd
 
-All credits to https://github.com/ElytrA8
+All credits to https://github.com/jashgro
